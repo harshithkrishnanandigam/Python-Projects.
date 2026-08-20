@@ -8,6 +8,10 @@ I learn by building projects, experimenting with ideas, breaking things, fixing 
 
 Learn → Build → Break → Debug → Improve → Repeat
 
+
+<img width="5160" height="3440" alt="image" src="https://github.com/user-attachments/assets/204a3787-fbf5-4fce-98a0-daf8409d1dd8" />
+
+
 🧠 Currently Learning
 
 1.  🐍 Python
@@ -20,6 +24,10 @@ Learn → Build → Break → Debug → Improve → Repeat
 🚀 My Projects
 
 A collection of projects I've built while developing my programming and problem-solving skills.
+
+
+<img width="2048" height="1366" alt="image" src="https://github.com/user-attachments/assets/0022f589-c3b9-4f78-95a9-04f69ce37dd8" />
+
 
 🧮 Calculator
 
@@ -85,6 +93,10 @@ Built with: Python, Lists, Functions, Loops
 Languages & Tools
 
 Python • C • MATLAB • Git • GitHub • VS Code
+
+
+<img width="740" height="493" alt="image" src="https://github.com/user-attachments/assets/27f55633-0c1f-4a92-bc89-99a1d2a630b7" />
+
 
 Currently Exploring
 
