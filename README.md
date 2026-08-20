@@ -168,16 +168,22 @@ Artificial Intelligence
 
 ```
 
-🎯 What's Next?
-
+# 🎯 What's Next?
+```text
  Learn Data Structures & Algorithms
+            ↓
  Explore NumPy & Pandas
+            ↓
  Start Data Science
+            ↓
  Learn Machine Learning
+            ↓
  Build AI projects
- Build bigger real-world applications
-
- ⚡ My Philosophy
+            ↓
+Build bigger real-world applications
+```
+---
+# ⚡ My Philosophy
 
 Don't just learn how things work. Build them.
 
