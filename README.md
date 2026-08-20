@@ -50,7 +50,7 @@ An interactive game where you compete against the computer.
 
 **Built with:** `Python` `Random` `Conditionals` `Loops`
 
-🔗 **[View Project](YOUR_ROCK_PAPER_SCISSORS_REPO)**
+🔗 **[View Project](https://github.com/harshithkrishnanandigam/Python-Projects./blob/a77db02d1d74e3d5ab254d74b74c187d1708089f/%23%20Rock%20Paper%20Scissors%20Game.py)**
 
 ---
 
@@ -60,7 +60,7 @@ A simple banking simulation implementing basic account operations.
 
 **Built with:** `Python` `Functions` `Loops` `Conditionals`
 
-🔗 **[View Project](YOUR_BANK_SIMULATOR_REPO)**
+🔗 **[View Project](https://github.com/harshithkrishnanandigam/Python-Projects./blob/a77db02d1d74e3d5ab254d74b74c187d1708089f/%23Bank%20Simulator.py)**
 
 ---
 
@@ -70,7 +70,7 @@ A simple contact management system for storing and searching contacts.
 
 **Built with:** `Python` `Lists` `Loops` `String Methods`
 
-🔗 **[View Project](YOUR_CONTACT_BOOK_REPO)**
+🔗 **[View Project](https://github.com/harshithkrishnanandigam/Python-Projects./blob/a77db02d1d74e3d5ab254d74b74c187d1708089f/%23Contact%20Book.py)**
 
 ---
 
@@ -80,7 +80,7 @@ A simple program that simulates dice rolls using randomly generated values.
 
 **Built with:** `Python` `Random` `Functions`
 
-🔗 **[View Project](YOUR_DICE_SIMULATOR_REPO)**
+🔗 **[View Project](https://github.com/harshithkrishnanandigam/Python-Projects./blob/a77db02d1d74e3d5ab254d74b74c187d1708089f/%23Dice%20simulator.py)**
 
 ---
 
@@ -90,7 +90,7 @@ Track, search, view and manage personal expenses.
 
 **Built with:** `Python` `Lists` `Functions` `Loops`
 
-🔗 **[View Project](YOUR_EXPENSE_TRACKER_REPO)**
+🔗 **[View Project](https://github.com/harshithkrishnanandigam/Python-Projects./blob/a77db02d1d74e3d5ab254d74b74c187d1708089f/%23Expense%20Tracker.py)**
 
 ---
 
@@ -100,7 +100,7 @@ Guess a randomly generated number within a limited number of attempts.
 
 **Built with:** `Python` `Random` `Loops` `Try/Except`
 
-🔗 **[View Project](YOUR_NUMBER_GUESSING_REPO)**
+🔗 **[View Project](https://github.com/harshithkrishnanandigam/Python-Projects./blob/a77db02d1d74e3d5ab254d74b74c187d1708089f/%23Number%20Guessing%20Game.py)**
 
 ---
 
@@ -110,7 +110,7 @@ Generate random passwords using letters, numbers and special characters.
 
 **Built with:** `Python` `Random` `Lists` `Functions`
 
-🔗 **[View Project](YOUR_PASSWORD_GENERATOR_REPO)**
+🔗 **[View Project](https://github.com/harshithkrishnanandigam/Python-Projects./blob/a77db02d1d74e3d5ab254d74b74c187d1708089f/%23Password%20generator%203.py)**
 
 ---
 
@@ -120,7 +120,7 @@ An interactive quiz with answer validation and score tracking.
 
 **Built with:** `Python` `Functions` `Conditionals` `Score Tracking`
 
-🔗 **[View Project](YOUR_QUIZ_GAME_REPO)**
+🔗 **[View Project](https://github.com/harshithkrishnanandigam/Python-Projects./blob/a77db02d1d74e3d5ab254d74b74c187d1708089f/%23Quiz%20Game.py)**
 
 ---
 
@@ -130,7 +130,7 @@ A simple task management program for creating and managing daily tasks.
 
 **Built with:** `Python` `Lists` `Functions` `Loops`
 
-🔗 **[View Project](YOUR_TODO_LIST_REPO)**
+🔗 **[View Project](https://github.com/harshithkrishnanandigam/Python-Projects./blob/a77db02d1d74e3d5ab254d74b74c187d1708089f/%23To%20do%20list%20app.py)**
 
 ---
 
