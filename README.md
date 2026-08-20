@@ -40,7 +40,7 @@ A simple calculator for performing basic mathematical operations.
 
 **Built with:** `Python` `Functions` `Conditionals`
 
-🔗 **[View Project](YOUR_CALCULATOR_REPO)**
+🔗 **[View Project]([YOUR_CALCULATOR_REPO](https://github.com/harshithkrishnanandigam/Python-Projects./blob/a77db02d1d74e3d5ab254d74b74c187d1708089f/%23%20Calculator.py))**
 
 ---
 
