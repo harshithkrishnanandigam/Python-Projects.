@@ -167,6 +167,8 @@ Machine Learning
 Artificial Intelligence
 
 ```
+<img width="2894" height="2894" alt="image" src="https://github.com/user-attachments/assets/095aeee3-1795-4cff-bcf9-f760bb1725e7" />
+
 
 # 🎯 What's Next?
 ```text
