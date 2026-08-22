@@ -133,7 +133,15 @@ A simple task management program for creating and managing daily tasks.
 🔗 **[View Project](https://github.com/harshithkrishnanandigam/Python-Projects./blob/a77db02d1d74e3d5ab254d74b74c187d1708089f/%23To%20do%20list%20app.py)**
 
 ---
+### 🕹️ Hangman Game
 
+A beginner-friendly Hangman game built in Python using loops, lists, functions, and random word selection.
+
+**Built with:** `random module`  `lists` `loops` `functions` `conditionals`
+
+🔗 **[View Project](https://github.com/harshithkrishnanandigam/Python-Projects./blob/163c23de5d903505f48d4a35c94ea918eb3dfab3/Hangman.py)**
+
+---
 # 🛠️ Tech Stack
 
 **Languages & Tools**
