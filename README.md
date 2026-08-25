@@ -148,7 +148,8 @@ A simple Python tool that automatically organizes files into folders based on th
 
 **Built with:** `pathlib` `file handling` `loops` `conditional` `statements` `automation`
 
-🔗 **[View Project](
+🔗 **[View Project](https://github.com/harshithkrishnanandigam/Python-Projects./blob/6f2ad1af1e804586330785ab3bd75b43663d3f07/%23File%20Organizer.py)
+
 ---
 # 🛠️ Tech Stack
 
