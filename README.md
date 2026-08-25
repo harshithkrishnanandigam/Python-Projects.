@@ -142,6 +142,14 @@ A beginner-friendly Hangman game built in Python using loops, lists, functions, 
 🔗 **[View Project](https://github.com/harshithkrishnanandigam/Python-Projects./blob/163c23de5d903505f48d4a35c94ea918eb3dfab3/Hangman.py)**
 
 ---
+### 📁 File Organizer
+
+A simple Python tool that automatically organizes files into folders based on their file type.
+
+**Built with:** `pathlib` `file handling` `loops` `conditional` `statements` `automation`
+
+🔗 **[View Project](
+---
 # 🛠️ Tech Stack
 
 **Languages & Tools**
